@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CodingtechniquesTutorialApplication<codingtechniques_tutorial>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "admin_user.CodingtechniquesTutorialApplication",
+            "projectName": "codingtechniques_tutorial",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
